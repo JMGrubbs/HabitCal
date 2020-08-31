@@ -1,3 +1,3 @@
 # HabitCal
 
-Set and track habits the user wants to create for themselfs
+Set and track habits that users want to build for themselves
