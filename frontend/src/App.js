@@ -1,10 +1,10 @@
 import React from 'react';
+import DataFetching from './fetching'
 
 const HelloWorld = () => {
   return (
     <div>
-      <h1>Hello world</h1>
-      <h2>Jeannie was here</h2>
+      <DataFetching />
     </div>
   );
 };
