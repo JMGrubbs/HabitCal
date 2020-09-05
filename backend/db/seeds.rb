@@ -5,3 +5,13 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Habit.destroy_all
+
+Habit.create(name: 'Thing i wanna do', complete: false)
+Habit.create(name: 'cook', complete: false)
+Habit.create(name: 'clean', complete: false)
+Habit.create(name: 'other thing i wanna do', complete: false)
+Habit.create(name: 'test code', complete: false)
+
+
